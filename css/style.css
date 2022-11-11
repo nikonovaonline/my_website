@@ -217,16 +217,16 @@ body {
   padding-top: 14px;
 }
 
-.header__list {
+/* .header__list {
   display: flex;
   flex-wrap: wrap;
-}
+} */
 
-.header__item {
+.header__link {
   margin-right: 40px;
 }
 
-.header__item:last-child {
+.header__link:last-child {
   margin-right: 0px;
 }
 
